@@ -1,0 +1,15 @@
+{
+  "name": "EGYPT RENAISSANCE 2050",
+  "short_name": "ER2050",
+  "description": "National development platform demo",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#0A0A0F",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
